@@ -163,9 +163,11 @@ footer a {
   }
 
   .footer_content {
+    color: black;
     justify-content: center;
     gap: 10rem;
     background-color: hsl(30, 54%, 90%);
     font-size: 1rem;
+    padding-bottom: 1rem;
   }
 }
