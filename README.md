@@ -21,8 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### The challenge
 
-Your challenge is to build out this recipe page and get it looking as close to the design as possible.
-
+Your challenge is to build out the recipe page and get it looking as close to the design as possible.
 You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 ### Screenshot
@@ -38,7 +37,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Built with:
 
-- Semantic HTML5 markup
+- Semantic HTML5
 - CSS custom properties
 - Flexbox
 - Mobile-first workflow
