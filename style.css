@@ -183,4 +183,21 @@ footer a {
     background-color: hsl(30, 54%, 90%);
     font-size: 0.9rem;
   }
+  .info_table {
+    margin-top: 1rem;
+  }
+  .white_space {
+    width: 2rem;
+  }
+  .info_table td:nth-child(2) {
+    font-weight: 400;
+    color: hsl(30, 10%, 34%);
+  }
+  .info_table td:nth-child(3) {
+    font-weight: 800;
+    color: hsl(14, 45%, 36%);
+  }
+  .article_line {
+    margin: 0.1rem 0;
+  }
 }
