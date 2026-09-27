@@ -167,13 +167,20 @@ footer a {
     border-radius: 1rem;
   }
   .recipe_container {
-    padding-top: 1.95rem;
-    padding-bottom: 0;
+    padding: 1.95rem 0 0 0;
     gap: 2rem;
   }
   img {
     width: 100%;
     height: auto;
     border-radius: 1rem;
+  }
+  footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 1rem;
+    background-color: hsl(30, 54%, 90%);
+    font-size: 0.9rem;
   }
 }
