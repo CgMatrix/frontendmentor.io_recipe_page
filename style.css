@@ -43,6 +43,11 @@ body {
   font-weight: 400;
   font-style: normal;
 }
+.img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
 
 table {
   border-collapse: collapse;
@@ -174,7 +179,7 @@ ol.list li {
 footer {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-evenly;
   padding-top: 1rem;
   background-color: hsl(30, 54%, 90%);
   font-size: 0.9rem;
@@ -194,7 +199,7 @@ footer a {
     padding-top: 0;
   }
   .mobile_content {
-    width: 46rem;
+    width: min(46rem, 100%);
     margin: 5rem 0;
     padding: 2.5rem;
     border-radius: 1rem;
@@ -204,13 +209,9 @@ footer a {
     gap: 2rem;
   }
   img {
-    width: 100%;
-    height: auto;
     border-radius: 1rem;
   }
-  footer {
-    justify-content: space-evenly;
-  }
+  
   .info_table {
     margin-top: 1rem;
   }
