@@ -13,7 +13,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
+  - [Experience](#experience)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -82,7 +82,7 @@ Example of code snippest from project after research on MDN & studying othe webs
 
 Based on extending skills for future projects, I'm planning to focus more on the following:
 - CSS Animate
-- CSS Tailwinf
+- CSS Tailwind
 
 ### Useful resources:
 
