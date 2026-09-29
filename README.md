@@ -81,8 +81,8 @@ Example of code snippest from project after research on MDN & studying othe webs
 ### Continued development:
 
 Based on extending skills for future projects, I'm planning to focus more on the following:
-- CSS Animate
-- CSS Tailwind
+- CSS Animate - For animated labels that guide the user.
+- CSS Tailwind - To speed up UI development.
 
 ### Useful resources:
 
